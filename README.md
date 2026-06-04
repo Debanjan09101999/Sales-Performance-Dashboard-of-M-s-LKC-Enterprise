@@ -19,3 +19,5 @@ Microsoft Excel
 📈 This project helped me strengthen my skills in data cleaning, data transformation, dashboard design, and  making proper decison according to the business model requirements.
 
 #PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #DashboardDesign #AmazonPrime #DataAnalyst #PowerQuery #DAX #Analytics #MicrosoftPowerBI #DataScience #PortfolioProject #LearningByDoing #LinkedInProjectsles Performance Dashboard
+
+![alt text]()
