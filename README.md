@@ -20,4 +20,4 @@ Microsoft Excel
 
 #PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #DashboardDesign #AmazonPrime #DataAnalyst #PowerQuery #DAX #Analytics #MicrosoftPowerBI #DataScience #PortfolioProject #LearningByDoing #LinkedInProjectsles Performance Dashboard
 
-![alt text]()
+![alt text](https://github.com/Debanjan09101999/Sales-Performance-Dashboard-of-M-s-LKC-Enterprise/blob/main/Ms%20LKC.png)
